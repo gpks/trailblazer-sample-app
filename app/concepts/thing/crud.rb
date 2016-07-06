@@ -1,0 +1,18 @@
+class Thing < ActiveRecord::Base
+  class Create < Trailblazer::Operation
+    include CRUD
+    modele Thing, :create
+    contract do
+      property :name
+      property :description
+
+      validates :name, presence: true
+      validates :description, length: { in: 4..160 }, allow_blank: true
+    end
+    def process(params)
+      validate(params[:thing]) do |f|
+        f.save
+      end
+    end
+  end
+end
