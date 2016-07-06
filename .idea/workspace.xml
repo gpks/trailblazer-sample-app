@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="96a7c093-a8c7-4d5a-b7e2-24886bfc6f19" name="Default" comment="copy test">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="trailblazer-sample-app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -103,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -641,7 +642,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1467835749486</updated>
-      <workItem from="1467835751033" duration="4648000" />
+      <workItem from="1467835751033" duration="4748000" />
     </task>
     <task id="LOCAL-00001" summary="copy test">
       <created>1467837882107</created>
@@ -661,7 +662,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4648000" />
+    <option name="totallyTimeSpent" value="4748000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="132" y="64" width="1400" height="836" extended-state="0" />
@@ -775,7 +776,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
           <folding />
         </state>
       </provider>
