@@ -6,4 +6,8 @@ class ThingsController < ApplicationController
 
     render action: :new
   end
+
+  def new
+    form Thing::Create
+  end
 end

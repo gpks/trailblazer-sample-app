@@ -40,8 +40,9 @@ gem "reform-rails"
 
 # optional, in case you want Cells.
 gem "trailblazer-cells"
-gem "cells-erb"         # Or cells-haml, cells-slim, cells-hamlit.
+gem "cells-haml"         # Or cells-haml, cells-slim, cells-hamlit.
 gem "cells-rails"
+gem "simple_form"
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console

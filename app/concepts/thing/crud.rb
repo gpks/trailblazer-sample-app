@@ -1,7 +1,7 @@
 class Thing < ActiveRecord::Base
   class Create < Trailblazer::Operation
-    include CRUD
-    modele Thing, :create
+    include Model
+    model Thing, :create
     contract do
       property :name
       property :description
